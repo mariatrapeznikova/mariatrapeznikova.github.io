@@ -1,0 +1,29 @@
+---
+title: "My projects"
+editor: visual
+---
+
+## Saint-Petersburg (RU)
+
+**1. [Kokosy](https://www.fakt-group.ru/poselki/kokosy/o-proekte/)**
+
+A residential cottage village near the forest and Korkinsky Lake, designed for an active life close to the city. It is located in the Vsevolozhsky district of the Leningrad region. The village is fully completed and has an active life: sports events, children's workshops, and celebrations for everyone. And in the summer of 2021, it even got its own store!
+
+**2. [Korkinskiy Ruchei](https://www.fakt-group.ru/poselki/korkinskiy-ruchey/o-proekte/)**
+
+Korkinskiy Ruchei is a pleasant village at an affordable price. Proximity to the city, utilities, the magnificent Korkinsky Lake and forest, access to equipped children's and sports playgrounds are privileges of every resident of the village. The cost of the plots already includes utilities: 3 kW electricity with the possibility of additional power connection, roads, and a drainage system. There are no building restrictions! Bring to life and create the home of your dreams for your beloved family. Shops, schools, kindergartens, a clinic, post offices, and bank branches are located within a 10-minute drive in the large village of Razmetelevo. Therefore, living in "Korkinsky Stream" will be convenient both in the summer season and all year round.
+
+**3. [Lyubimovo](https://www.fakt-group.ru/poselki/love-is/o-proekte/)**
+
+Lyubimovo is a cottage village with individual housing plots not far from Pushkin and Pavlovsk. The village is located in the Tosnensky district, only 30 km from St. Petersburg. Lyubimovo has everything you need for your dream home: individual housing plots, gas, regional registration, and proximity to the picturesque Pushkin and Pavlovsk. The streets in the village have already been officially named. It's up to you to decide whether to become a resident of Druzhna Street, Otradna Street, Schastliva Street, Slavna Street, or Lyubima Street!
+
+## Yekaterinburg (RU)
+
+1.  High-rise apartment building with integrated premises on the first floor.
+2.  Comprehensive development of Novokoltsovskiy microdistrict.
+3.  Gagarin residential building within the block of Gagarin Street – Akademicheskaya Street – Mir Street – Botanicheskaya Street.
+4.  Offsite water and sanitation networks of High Technology Technopark.
+5.  Design and construction of an alternative water supply source for Severka village.
+6.  Modernization of Moskovskaya Street.
+7.  Drainage discharge estimation for Solnechnyi microdistrict.
+8.  Storm water drain network design with treatment facilities in Revda.

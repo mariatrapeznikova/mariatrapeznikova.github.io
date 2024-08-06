@@ -1,0 +1,30 @@
+---
+title: Maria Trapeznikova
+image: img/image.jpg
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mariatrapeznikova
+    - icon: email
+      text: Email
+      href: mailto:trapeznikovama@gmail.com
+    - icon: CV
+      text: CV
+      href: https://github.com/mariatrapeznikova/mariatrapeznikova.github.io/blob/main/cv.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/maria-trapeznikova
+---
+
+Hello! My name is Maria Trapeznikova and I am pursuing a Master's degree in International Business Administration (IBA) at [Viadrina University](https://www.europa-uni.de/en/index.html).
+
+In 2010, I graduated from [Ural Federal University](https://urfu.ru/en/) with a Corporate Management Diploma and a Project Management specialization. After that, I gained eight years of experience working as a Project Manager in the real estate development and construction sphere. You can find more information about the projects I was envolved in on the [Projects](projects.qmd) page. In 2019, I moved to Estonia and started working in an international fintech company as an Anti-Money Laundering and Backoffice specialist.
+
+In 2023, my passion for global business operations drove me to apply for the IBA Master program at Viadrina. I am currently in my second semester and studying a cross-functional program with a focus on the Management & Marketing and Data Science & Decision Support tracks. My professional aim is to secure a position in a dynamic multinational corporation where I can apply my expertise in data-driven decision-making and strategic marketing to drive business growth and innovation. In the long term, I am also interested in pursuing a career in academia, where I can contribute to research and teach future business leaders.
+
+My contact information you can find on the [Contact](contact.qmd) page.

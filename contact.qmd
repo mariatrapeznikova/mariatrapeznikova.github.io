@@ -1,0 +1,9 @@
+---
+title: "Contact Information"
+editor: visual
+---
+
+Maria Trapeznikova\
+[trapeznikovama\@gmail.com](mailto:%20trapeznikovama@gmail.com)
+
+The best way to contact me is via the email address above or by sending me a message on [LinkedIn](https://www.linkedin.com/in/maria-trapeznikova).

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Maria Trapeznikova"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+    search: true
+    
+format:
+  html:
+    theme: cosmo dark
+    css: styles.css
+    toc: true
+
+editor: visual
+
